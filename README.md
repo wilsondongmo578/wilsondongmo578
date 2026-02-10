@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Wilson Dongmo Nentedemo
+## 👋 Hi, I'm Wilson Dongmo Nentedemo
+
+<img src="https://github.com/wilsondongmo578.png" 
+     align="right" 
+     alt="Wilson Dongmo Nentedemo" 
+     width="200" 
+     style="border-radius: 50%;" />
 
 🎓 **Data Science Student**  
 💻 Python | SQL | Data Analysis | Data Visualization  
-📍 Ottawa, Canada  
+📍 Ottawa, Canada
 
 Welcome to my GitHub portfolio!  
 This space showcases my projects, skills, and learning journey in **Data Science** and **Data Analytics**. I am passionate about transforming raw data into **meaningful insights** that support decision-making.
